@@ -1,5 +1,11 @@
 # multi-select-checkboxes
 
+# Screenshots
+
+![1](http://imgur.com/lvf5Bjh.png)
+
+![2](http://imgur.com/KmLQiAY.png)
+
 ## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
